@@ -1,0 +1,411 @@
+﻿
+[
+  {
+    "Title": "Cras interdum. Nunc",
+    "Author": "Benjamin, Raymond C.",
+    "Genre": "Adventure",
+    "AmountInStock": 49
+  },
+  {
+    "Title": "aliquam adipiscing lacus.",
+    "Author": "Robinson, Clark F.",
+    "Genre": "Horror",
+    "AmountInStock": 62
+  },
+  {
+    "Title": "erat. Vivamus nisi.",
+    "Author": "Jefferson, Dalton G.",
+    "Genre": "Drama",
+    "AmountInStock": 11
+  },
+  {
+    "Title": "nec enim. Nunc",
+    "Author": "Clarke, Bell L.",
+    "Genre": "Comic",
+    "AmountInStock": 17
+  },
+  {
+    "Title": "et risus. Quisque",
+    "Author": "Walters, Amery V.",
+    "Genre": "Thriller",
+    "AmountInStock": 31
+  },
+  {
+    "Title": "nisi sem semper",
+    "Author": "Stephenson, Aquila T.",
+    "Genre": "Drama",
+    "AmountInStock": 13
+  },
+  {
+    "Title": "Donec feugiat metus",
+    "Author": "Bray, Lucius P.",
+    "Genre": "Adventure",
+    "AmountInStock": 22
+  },
+  {
+    "Title": "amet, dapibus id,",
+    "Author": "Walton, Morgan B.",
+    "Genre": "Non-fiction",
+    "AmountInStock": 47
+  },
+  {
+    "Title": "non, egestas a,",
+    "Author": "Bond, Hoyt H.",
+    "Genre": "Adult",
+    "AmountInStock": 52
+  },
+  {
+    "Title": "augue, eu tempor",
+    "Author": "Fischer, Amelia S.",
+    "Genre": "Fantasy",
+    "AmountInStock": 80
+  },
+  {
+    "Title": "nonummy ac, feugiat",
+    "Author": "Stanley, Wesley X.",
+    "Genre": "Fantasy",
+    "AmountInStock": 55
+  },
+  {
+    "Title": "id, blandit at,",
+    "Author": "Conway, Josephine Y.",
+    "Genre": "Adult",
+    "AmountInStock": 40
+  },
+  {
+    "Title": "cursus vestibulum. Mauris",
+    "Author": "Higgins, Deborah Q.",
+    "Genre": "Horror",
+    "AmountInStock": 81
+  },
+  {
+    "Title": "sem egestas blandit.",
+    "Author": "Wise, Clio X.",
+    "Genre": "Drama",
+    "AmountInStock": 51
+  },
+  {
+    "Title": "non nisi. Aenean",
+    "Author": "Vang, Vernon R.",
+    "Genre": "Comic",
+    "AmountInStock": 13
+  },
+  {
+    "Title": "cursus et, eros.",
+    "Author": "Caldwell, Aspen J.",
+    "Genre": "Adventure",
+    "AmountInStock": 9
+  },
+  {
+    "Title": "consectetuer adipiscing elit.",
+    "Author": "Shepherd, Demetrius A.",
+    "Genre": "Thriller",
+    "AmountInStock": 85
+  },
+  {
+    "Title": "tincidunt dui augue",
+    "Author": "Norris, Alexander F.",
+    "Genre": "Sci-Fi",
+    "AmountInStock": 9
+  },
+  {
+    "Title": "fringilla. Donec feugiat",
+    "Author": "Banks, Dorothy A.",
+    "Genre": "Non-fiction",
+    "AmountInStock": 52
+  },
+  {
+    "Title": "risus. Nulla eget",
+    "Author": "Morgan, Thomas O.",
+    "Genre": "Horror",
+    "AmountInStock": 27
+  },
+  {
+    "Title": "ut dolor dapibus",
+    "Author": "York, Germane Q.",
+    "Genre": "Non-fiction",
+    "AmountInStock": 20
+  },
+  {
+    "Title": "pellentesque. Sed dictum.",
+    "Author": "Christian, Rudyard Q.",
+    "Genre": "Adult",
+    "AmountInStock": 22
+  },
+  {
+    "Title": "interdum. Nunc sollicitudin",
+    "Author": "Potter, Brynne U.",
+    "Genre": "Romance",
+    "AmountInStock": 42
+  },
+  {
+    "Title": "molestie dapibus ligula.",
+    "Author": "Guthrie, Felix U.",
+    "Genre": "Drama",
+    "AmountInStock": 9
+  },
+  {
+    "Title": "semper, dui lectus",
+    "Author": "Sutton, Fritz U.",
+    "Genre": "Adult",
+    "AmountInStock": 48
+  },
+  {
+    "Title": "ipsum. Curabitur consequat,",
+    "Author": "Faulkner, Elton M.",
+    "Genre": "Adventure",
+    "AmountInStock": 56
+  },
+  {
+    "Title": "tellus. Phasellus elit",
+    "Author": "Reilly, Alexis W.",
+    "Genre": "Comic",
+    "AmountInStock": 69
+  },
+  {
+    "Title": "sed, hendrerit a,",
+    "Author": "Munoz, Jesse F.",
+    "Genre": "Horror",
+    "AmountInStock": 45
+  },
+  {
+    "Title": "Nunc sollicitudin commodo",
+    "Author": "Cannon, Iris V.",
+    "Genre": "Sci-Fi",
+    "AmountInStock": 71
+  },
+  {
+    "Title": "sollicitudin a, malesuada",
+    "Author": "Alvarado, Graham M.",
+    "Genre": "Horror",
+    "AmountInStock": 96
+  },
+  {
+    "Title": "vitae, orci. Phasellus",
+    "Author": "Norton, Joshua O.",
+    "Genre": "Thriller",
+    "AmountInStock": 13
+  },
+  {
+    "Title": "lacus. Etiam bibendum",
+    "Author": "Tanner, Sean N.",
+    "Genre": "Comic",
+    "AmountInStock": 33
+  },
+  {
+    "Title": "sapien. Cras dolor",
+    "Author": "Sharp, Nolan M.",
+    "Genre": "Non-fiction",
+    "AmountInStock": 48
+  },
+  {
+    "Title": "nulla. Integer urna.",
+    "Author": "Rosario, Charissa L.",
+    "Genre": "Fantasy",
+    "AmountInStock": 92
+  },
+  {
+    "Title": "vitae, aliquet nec,",
+    "Author": "Holloway, Fritz O.",
+    "Genre": "Horror",
+    "AmountInStock": 92
+  },
+  {
+    "Title": "orci lacus vestibulum",
+    "Author": "Ortiz, Quail C.",
+    "Genre": "Non-fiction",
+    "AmountInStock": 49
+  },
+  {
+    "Title": "convallis ligula. Donec",
+    "Author": "Henderson, Emma U.",
+    "Genre": "Horror",
+    "AmountInStock": 1
+  },
+  {
+    "Title": "nunc. In at",
+    "Author": "Kline, Venus V.",
+    "Genre": "Sci-Fi",
+    "AmountInStock": 16
+  },
+  {
+    "Title": "risus. Donec egestas.",
+    "Author": "Rodriguez, Catherine U.",
+    "Genre": "Fantasy",
+    "AmountInStock": 95
+  },
+  {
+    "Title": "tortor at risus.",
+    "Author": "Dean, Benedict D.",
+    "Genre": "Adventure",
+    "AmountInStock": 69
+  },
+  {
+    "Title": "quam vel sapien",
+    "Author": "Newman, Ivor M.",
+    "Genre": "Horror",
+    "AmountInStock": 63
+  },
+  {
+    "Title": "Integer sem elit,",
+    "Author": "Shelton, Brittany M.",
+    "Genre": "Adult",
+    "AmountInStock": 13
+  },
+  {
+    "Title": "congue. In scelerisque",
+    "Author": "Lloyd, Reece Y.",
+    "Genre": "Drama",
+    "AmountInStock": 34
+  },
+  {
+    "Title": "eget ipsum. Suspendisse",
+    "Author": "Drake, Yuli F.",
+    "Genre": "Adventure",
+    "AmountInStock": 60
+  },
+  {
+    "Title": "velit eget laoreet",
+    "Author": "Barry, Fuller S.",
+    "Genre": "Sci-Fi",
+    "AmountInStock": 25
+  },
+  {
+    "Title": "Aenean sed pede",
+    "Author": "Stone, Donna J.",
+    "Genre": "Drama",
+    "AmountInStock": 89
+  },
+  {
+    "Title": "tellus, imperdiet non,",
+    "Author": "Becker, Ferdinand O.",
+    "Genre": "Drama",
+    "AmountInStock": 23
+  },
+  {
+    "Title": "ut nisi a",
+    "Author": "Hyde, Yasir H.",
+    "Genre": "Romance",
+    "AmountInStock": 53
+  },
+  {
+    "Title": "sed leo. Cras",
+    "Author": "Palmer, Judah X.",
+    "Genre": "Sci-Fi",
+    "AmountInStock": 76
+  },
+  {
+    "Title": "auctor, nunc nulla",
+    "Author": "Kirkland, Quon Q.",
+    "Genre": "Sci-Fi",
+    "AmountInStock": 88
+  },
+  {
+    "Title": "molestie in, tempus",
+    "Author": "Mayer, Aretha K.",
+    "Genre": "Comic",
+    "AmountInStock": 42
+  },
+  {
+    "Title": "nec tempus mauris",
+    "Author": "Conley, Hayley Z.",
+    "Genre": "Fantasy",
+    "AmountInStock": 17
+  },
+  {
+    "Title": "aliquet nec, imperdiet",
+    "Author": "Stephens, Amethyst O.",
+    "Genre": "Sci-Fi",
+    "AmountInStock": 2
+  },
+  {
+    "Title": "Cras interdum. Nunc",
+    "Author": "Ellis, Perry Y.",
+    "Genre": "Non-fiction",
+    "AmountInStock": 94
+  },
+  {
+    "Title": "sem elit, pharetra",
+    "Author": "Castaneda, Wyatt G.",
+    "Genre": "Comic",
+    "AmountInStock": 84
+  },
+  {
+    "Title": "dapibus id, blandit",
+    "Author": "Love, Marcia S.",
+    "Genre": "Comic",
+    "AmountInStock": 48
+  },
+  {
+    "Title": "amet lorem semper",
+    "Author": "Johnson, Cameron B.",
+    "Genre": "Fantasy",
+    "AmountInStock": 17
+  },
+  {
+    "Title": "Fusce aliquet magna",
+    "Author": "Koch, Ima E.",
+    "Genre": "Non-fiction",
+    "AmountInStock": 22
+  },
+  {
+    "Title": "aliquet diam. Sed",
+    "Author": "Kramer, Jakeem H.",
+    "Genre": "Sci-Fi",
+    "AmountInStock": 13
+  },
+  {
+    "Title": "dictum cursus. Nunc",
+    "Author": "Mason, Geoffrey E.",
+    "Genre": "Romance",
+    "AmountInStock": 4
+  },
+  {
+    "Title": "pharetra sed, hendrerit",
+    "Author": "Wiley, Karly V.",
+    "Genre": "Drama",
+    "AmountInStock": 3
+  },
+  {
+    "Title": "in lobortis tellus",
+    "Author": "Grant, Unity H.",
+    "Genre": "Horror",
+    "AmountInStock": 100
+  },
+  {
+    "Title": "gravida. Aliquam tincidunt,",
+    "Author": "Nixon, Cruz L.",
+    "Genre": "Comic",
+    "AmountInStock": 1
+  },
+  {
+    "Title": "nibh enim, gravida",
+    "Author": "Villarreal, Ulysses R.",
+    "Genre": "Adventure",
+    "AmountInStock": 75
+  },
+  {
+    "Title": "imperdiet ornare. In",
+    "Author": "Hooper, Harlan W.",
+    "Genre": "Non-fiction",
+    "AmountInStock": 50
+  },
+  {
+    "Title": "Cras dictum ultricies",
+    "Author": "Atkins, Yardley S.",
+    "Genre": "Comic",
+    "AmountInStock": 53
+  },
+  {
+    "Title": "vel nisl. Quisque",
+    "Author": "Arnold, Dorian Q.",
+    "Genre": "Thriller",
+    "AmountInStock": 69
+  },
+  {
+    "Title": "mollis lectus pede",
+    "Author": "Aguilar, Hilel T.",
+    "Genre": "Adult",
+    "AmountInStock": 76
+  }
+]
