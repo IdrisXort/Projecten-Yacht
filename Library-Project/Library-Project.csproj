@@ -48,6 +48,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Events\LibrarianBookGivingEventArgs.cs" />
+    <Compile Include="Events\Delegates.cs" />
+    <Compile Include="Events\PersonBookReturningEventArgs.cs" />
+    <Compile Include="Events\PersonBookRentingEventArgs.cs" />
+    <Compile Include="Events\LibrarianBookReturningEventArgs.cs" />
     <Compile Include="Factories\Factory.cs" />
     <Compile Include="Interfaces\ILibrarian.cs" />
     <Compile Include="Interfaces\IBook.cs" />

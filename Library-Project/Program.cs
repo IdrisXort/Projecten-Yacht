@@ -16,6 +16,8 @@ namespace Library_Project
             Library library = new Library("Rotterdam");
             library.InitializeLibrary();
             
+
+            
             
             Console.ReadKey();
         }
