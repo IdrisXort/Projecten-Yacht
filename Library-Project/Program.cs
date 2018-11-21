@@ -13,10 +13,10 @@ namespace Library_Project
     {
         static void Main(string[] args)
         {
-            Library library = new Library("Rotterdam");
+            Library library = new Library("Rotterdam");           
             library.InitializeLibrary();
-            
 
+           
             
             
             Console.ReadKey();
